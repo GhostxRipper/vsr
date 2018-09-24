@@ -1,0 +1,9 @@
+{
+  "name": "vsr",
+  "version": "1.0.0",
+  "description": "Very simple request - make request in NodeJS very simple way",
+  "main": "vsr.js",
+  "repository": "git@github.com:GhostxRipper/vsr.git",
+  "author": "GhostxRipper <yann_ams@icloud.com>",
+  "license": "MIT"
+}
